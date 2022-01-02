@@ -6,3 +6,6 @@ A mobile application to save your daily meal list and help you decide what to ha
 2. Persist the redux store by redux-persist
 3. Usage of Animated component in react-native
 4. Tab navigation UI, Modal View, List with Search bar
+
+## Dependency Installation
+`yarn add`
